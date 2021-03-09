@@ -423,7 +423,7 @@ Collect Public Testflight app URL
 | sudo crabs | [https://testflight.apple.com/join/dGjdmtXH](https://testflight.apple.com/join/dGjdmtXH) |
 | Sundial-Solar Lunar Times | [https://testflight.apple.com/join/Crql5OLC](https://testflight.apple.com/join/Crql5OLC) |
 | Swaptize App | [https://testflight.apple.com/join/D2nUIMEN](https://testflight.apple.com/join/D2nUIMEN) |
-| SweeLOL SweeLOL- Put a Smile on Someone's Face |[https://testflight.apple.com/join/FT9n1ncG](https://testflight.apple.com/join/FT9n1ncG)|
+| SweeLOL- Put a Smile on Someone's Face |[https://testflight.apple.com/join/FT9n1ncG](https://testflight.apple.com/join/FT9n1ncG)|
 | T7 Chicken Plus | [https://testflight.apple.com/join/Ib5WleeA](https://testflight.apple.com/join/Ib5WleeA) |
 | Tapatalk - 200,000+ Forums | [https://testflight.apple.com/join/oGFXVgl6](https://testflight.apple.com/join/oGFXVgl6) |
 | Tarkeeb | [https://testflight.apple.com/join/t7m9f4dR](https://testflight.apple.com/join/t7m9f4dR) |
